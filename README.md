@@ -5,6 +5,8 @@ between board meetings. See details on the [committee model](https://wiki.ietf.o
 
 See the current year's full board meeting schedule [here](https://wiki.ietf.org/group/iab/2025_Schedule).
 
+An overview of all tasks can be found [here](https://github.com/orgs/intarchboard/projects/2/views/1).
+
 ## How should I use this tracker?
 
 - Create an [Issue](https://github.com/intarchboard/responsibilities/issues) to track a task or responsibility that you or others will work on between full board meetings.
