@@ -17,3 +17,7 @@ Provide updates on meetings, discussions, etc, on the issue page.
 At each full board meeting, we will review this tracker to make sure that each IAB member has the appropriate assignments for the next milestone.
 
 Prior to each full board meeting, each issue in the corresponding milestone should be updated to include a written report to be presented to the IAB, including any actions that the full IAB should take. This can also be a pointer to a report provided on a mailing list, etc.
+
+Once a task has been reported, the issue can be closed.
+
+For activity between meetings, please open a new issue to track the work for the next meeting. The new issue can refer back to the old issue.
