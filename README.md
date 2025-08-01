@@ -9,18 +9,32 @@ See the agenda for informal meetings [here](https://wiki.ietf.org/group/iab/Agen
 
 An overview of all tasks can be found [here](https://github.com/orgs/intarchboard/projects/2/views/1).
 
-## How should I use this tracker?
+## How do I add a task to track?
 
 - Create an [Issue](https://github.com/intarchboard/responsibilities/issues) to track a task or responsibility that you or others will work on between full board meetings.
 - Assign one or more IAB members to the issue.
 - Set the [Label](https://github.com/intarchboard/responsibilities/labels) to the appropriate category.
 - Set the [Milestone](https://github.com/intarchboard/responsibilities/milestones) to the meeting at which this task will be reported. Generally, this should be the next full board meeting.
 
-Provide updates on meetings, discussions, etc, on the issue page.
+## How do I add an item to a meeting agenda?
 
-At each full board meeting, we will review this tracker to make sure that each IAB member has the appropriate assignments for the next milestone.
+1. Determine when you want to discuss your topic. Items must be added to an agenda no later than the Friday before a meeting.
+1. On your [issue](https://github.com/intarchboard/responsibilities/issues), add a comment with the [Agenda Template](https://github.com/intarchboard/responsibilities/blob/main/Templates.md).
+1. Add a link to your issue in the wiki [here](https://wiki.ietf.org/group/iab/Agenda).
+1. The IAB Chair or Secretariat will send a copy of the agenda to the mailing list and Slack after the agenda is finalized (the Friday before the meeting).
 
-Prior to each full board meeting, each issue in the corresponding milestone should be updated to include a written report to be presented to the IAB, including any actions that the full IAB should take. This can also be a pointer to a report provided on a mailing list, etc.
+## How do I report the outcome of a discussion?
+
+If your issue is discussed at a meeting (an informal meeting, full board meeting, or a side/committee meeting),
+the outcome and notes of the discussion should be documented on the issue.
+
+Use the [Outcome Template](https://github.com/intarchboard/responsibilities/blob/main/Templates.md) to add
+a comment on your issue.
+
+## Reviewing and closing items
+
+At each informal and full board meeting, we will briefly review this tracker to make sure that each IAB
+member has the appropriate assignments for the next milestone.
 
 Once a task has been reported, the issue can be closed.
 
