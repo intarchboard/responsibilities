@@ -1,5 +1,7 @@
 # IAB Responsibilities Tracking
 
+See the active [IAB Dashboard](https://github.com/orgs/intarchboard/projects/7/views/1) that needs immediate attention. 
+
 This repository tracks the responsibilities and tasks assigned to IAB members
 between board meetings. See details on the [committee model](https://wiki.ietf.org/group/iab/committee-model).
 
